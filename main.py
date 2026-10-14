@@ -9,6 +9,11 @@ def carre(ching):  #fonction du carré
    forward(ching)
    left(90)
 
+def hexa(grr): #focntion de l'hexagone
+  left(30)
+  for loop in range(6):
+    forward(grr)
+    left(60)
 
 
 done()  # done
