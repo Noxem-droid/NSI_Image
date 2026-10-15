@@ -24,3 +24,11 @@ def rectangle(longueur, largeur): #fonction du rectangle
 
 
 done()  # done
+
+"""
+Colors :
+Back ground :
+Rainbow :
+Cat :
+Planets :
+"""
