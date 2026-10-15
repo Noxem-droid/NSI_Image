@@ -16,4 +16,6 @@ def hexa(grr): #focntion de l'hexagone
     left(60)
 
 
+test = 30
+
 done()  # done
