@@ -23,20 +23,22 @@ def rectangle(longueur, largeur): #fonction du rectangle
     forward(largeur)
     left(90)
 
-def polygone(long,cot):
+def polygone(long,cot,color):
+  pendown()
+  pencolor("#"(color))
   angle = 360 / cot
   for i in range(cot):
     forward(long)
     right(angle)
 
 
-polygone(50,5)
+polygone(50,5,"00FF00")
 
 done()  # done
 
 """
 Colors :
-Back ground :
+Back ground : ("#003466")
 Rainbow :
 Cat :
 Planets :
