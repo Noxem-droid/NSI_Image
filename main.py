@@ -20,7 +20,7 @@ def rectangle(longueur, largeur): #fonction du rectangle
     forward(largeur)
     left(90)
 
-def polygone(long,larg,cot):
+def polygone(long, larg, cot):
   angle = 360 / cot
   for i in range(cot):
     forward(long)
