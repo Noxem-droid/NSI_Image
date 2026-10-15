@@ -25,11 +25,14 @@ def rectangle(longueur, largeur): #fonction du rectangle
 
 def polygone(long,cot,color):
   pendown()
-  pencolor("#"(color))
+  pencolor("#" + color)
   angle = 360 / cot
+  fillcolor("#" + color)
+  begin_fill()
   for i in range(cot):
     forward(long)
     right(angle)
+  end_fill()
 
 
 polygone(50,5,"00FF00")
