@@ -6,9 +6,9 @@ window.title(" 1ere - Turtle ")
 bgcolor("#003466")
 
 
-def carre(ching):  #fonction du carré
+def carre(long):  #fonction du carré
   for loop in range(4):
-   forward(ching)
+   forward(long)
    left(90)
 
 
