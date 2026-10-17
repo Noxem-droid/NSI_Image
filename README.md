@@ -34,5 +34,6 @@ Jean : testeur + architecte 4
 Qui a fait quoi pour le moment ( Journal de bord ): 
 
 14/10/26 : corentin : import turtle et tout, Emile : code carré et hexa 
+
 15/01/26 : Lucas a créer le background bleu foncé ( couleur spécifique) et étoile ( code de base ) de son coté, jean a créer le code polygone, 
 corentin a réglé le GitHub, Emile a créer de son coté un code des trainés de base, écrit le journal de bord 
