@@ -1,7 +1,7 @@
 from turtle import *
 from math import *
 window = Screen()
-window.setup (width=2000, height=2000, startx=0, starty=0)
+window.setup (width=1350, height=700, startx=0, starty=0)
 window.title(" 1ere - Turtle ")
 
 bgcolor("#003466")
