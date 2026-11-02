@@ -4,7 +4,7 @@ window = Screen()
 window.setup (width=1350, height=700, startx=0, starty=0)
 window.title(" 1ere - Turtle ")
 
-bgcolor("#003466")
+bgcolor("#021629")
 
 tracer(0)  # Cache les animations
 #endregion
