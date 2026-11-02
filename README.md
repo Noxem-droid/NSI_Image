@@ -36,4 +36,4 @@ Qui a fait quoi pour le moment (Journal de bord):
 14/10/26 : corentin : import turtle et tout, Emile : code carré et hexa 
 15/10/26 : Lucas a créer le background bleu foncé (couleur spécifique) et étoile (code de base) de son coté, jean a créer le code polygone, corentin a réglé le GitHub, Emile a créer de son coté un code des trainés de base, écrit le journal de bord 
 01/11/26 : Emile a modifié objectifs et readmet GitHub + tester codes personnelles + créer sur notre dossier ED : image modèle nyan cat + modifier paramètres turtle pour plus de visibilité + modifier journal de bord + jean a avancé son code corp cat.
-
+02/11/2026: Lucas et Emile ont modifié le code main des couleurs (fond) + Emile a mis son code commenter sur la trainée de couleur + jean a tester le code entier dans une box adapté (hors du projet GitHub)
