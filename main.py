@@ -34,8 +34,6 @@ def polygone(long,cot,color):
     right(angle)
   end_fill()
 
-polygone(50,5)
-
 polygone(50,5,"00FF00")
 
 done()  # done
