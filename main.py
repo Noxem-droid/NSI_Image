@@ -40,8 +40,8 @@ def traine_aller_retour(nb_blocs):
     Sortie : des rectangles de couleurs en collones pour faire une trainée de couleur.
     
     '''
-    longueur = 40 # longueur d'une bande ou rectangle de couleur.
-    largeur_bande = 15 # largeur d'une bande ou rectangle de couleur.
+    longueur = 90 # longueur d'une bande ou rectangle de couleur.
+    largeur_bande = 30 # largeur d'une bande ou rectangle de couleur.
     decalage = 10  # Valeur du décalage pour l'effet de difference entre les colonnes (en pixels).
 
     # Variable pour compter les colonnes si pair ou impair selon nombre pour decollage de taille.
@@ -120,7 +120,7 @@ def traine_aller_retour(nb_blocs):
 
 # Position initiale de départ sur l'écran.
 penup()
-setposition(-300, 0)
+setposition(-500, 0)
 pendown()
 
 # Appel des fonctions
