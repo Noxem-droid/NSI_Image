@@ -8,18 +8,7 @@ window.title(" lingangouligouli watcha lingangouligou ")
 bgcolor("#0D4178")
 
 
-#region func
-def carre(long):  #fonction du carré
-  for loop in range(4):
-   forward(long)
-   left(90)
-
-def rectangle(longueur, largeur): #fonction du rectangle
-  for loop in range(2):
-    forward(longueur)
-    left(90)
-    forward(largeur)
-    left(90)
+#region functions
 
 def polygone(long,cot,color):
   pendown()
