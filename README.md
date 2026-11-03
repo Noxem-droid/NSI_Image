@@ -21,10 +21,10 @@ Emile : L'arc en ciel
 
 Rôles: 
 
-Emile : scribe du journal de bord + architecte 1 + manager 
-Corentin : gère les problèmes informatiques de connexion et update GitHub/VS code + architecte 2
-Lucas : architecte 3 + artiste codeur (vérifie couleur, cohérence avec image) 
-Jean : testeur VS code + architecte 4
+Emile : scribe du journal de bord + architecte 1 + manager + celui qui a fait le diapo de présentation  
+Corentin : gère les problèmes informatiques de connexion et update GitHub/VS code + architecte 2 + corrige le code des autres.
+Lucas : architecte 3 + artiste codeur (vérifie couleur, cohérence avec image) + testeur blocs indépendamment 
+Jean : testeur VS code + architecte 4 + manager 2
 
 Suites possible: 
 
