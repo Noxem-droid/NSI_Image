@@ -125,7 +125,6 @@ pendown()
 
 # Appel des fonctions
 traine_aller_retour(4)
-polygone(50,5,"D8E6E7")
 
 done()  # done
 #endregion
