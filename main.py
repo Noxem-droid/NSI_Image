@@ -6,8 +6,6 @@ window.title(" 1ere - Turtle ")
 
 bgcolor("#0D4178")
 
-tracer(0)  # Cache les animations
-#endregion
 
 def carre(long):  #fonction du carré
   for loop in range(4):
