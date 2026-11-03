@@ -78,7 +78,7 @@ def traine_aller_retour(nb_blocs):
                 pencolor("#920DAD")
 
             
-            # On trace des lignes grace a la focntion begin fill pour remplir le rectgle.
+            # On trace des lignes grace a des aller-retour pour remplir le rectangle de couleur.
             for k in range(largeur_bande):
                 forward(longueur)
                 backward(longueur)
