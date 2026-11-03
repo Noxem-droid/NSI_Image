@@ -1,3 +1,4 @@
+#region init
 from turtle import *
 from math import *
 window = Screen()
@@ -7,6 +8,7 @@ window.title(" 1ere - Turtle ")
 bgcolor("#0D4178")
 
 
+#region func
 def carre(long):  #fonction du carré
   for loop in range(4):
    forward(long)
@@ -126,6 +128,7 @@ traine_aller_retour(4)
 polygone(50,5,"D8E6E7")
 
 done()  # done
+#endregion
 
 """
 Colors :
