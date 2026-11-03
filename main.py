@@ -65,13 +65,13 @@ def traine_aller_retour(nb_blocs):
         while couleur_num <= 6:
             # Changement de couleur selon la valeur de la variable couleur_num
             if couleur_num == 1:
-                pencolor("red")
+                pencolor("#FE2B0C")
             elif couleur_num == 2:
-                pencolor("orange")
+                pencolor("#FFA902")
             elif couleur_num == 3:
-                pencolor("yellow")
+                pencolor("#FFF500")
             elif couleur_num == 4:
-                pencolor("green")
+                pencolor("#31E909")
             elif couleur_num == 5:
                 pencolor("#217E85")
             elif couleur_num == 6:
