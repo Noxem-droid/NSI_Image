@@ -1,6 +1,6 @@
 Objectif : 
 
-Faire une image du meme nyan cat + quelques easter eggs cachés 
+Faire une image du meme nyan cat + quelques easter eggs cachés ( en fait non)
 
 Caractéristiques :
 
