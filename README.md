@@ -18,7 +18,7 @@ Outils :
 
 Qui fait quoi (dans l'image): 
 
-Lucas : Le fond + étoiles + planètes 
+Lucas : Le fond + étoiles + planètes (planètes et étoiles en random) 
 Corentin : Rien mais il coordonne les codes 
 Jean : le chat (corps) 
 Emile : L'arc en ciel 
