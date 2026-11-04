@@ -749,7 +749,7 @@ cat_bod(taille)
 cat_sup(taille)
 onclick
 
-clear()
+done()
 
 #endregion
 #:3
