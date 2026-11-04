@@ -6,11 +6,8 @@ Caractéristiques :
 
 le nyan cat avec une trainée arc en ciel et un fond bleu sombre et des étoiles et planètes + easter Eggs 
 
-Easter Eggs cachés : 
-
-1) Trump
-2) ile Epstein 
-( a voir ) 
+Bonus possible :
+- mettre image en GIF 
 
 Outils : 
 
